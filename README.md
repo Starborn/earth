@@ -1,7 +1,7 @@
 Gteetings, Fellow Earthlings
 ===============================
 RE TOTAL EARTH SYSTEMS REBOOT 
-Have been watching a bootleg copy of the Hitchikers Guide to the Galaxy a lot lately on youtube, mostly for educational purpose.
+Have been watching a bootleg copy of the Hitchikers Guide to the Galaxy a lot lately on youtube, mostly for educational purpose and for inspiration for my long term vision.
 Checked around on the web, to find an open source programme to reboot the earth
 in case it gets wiped out, which is not that unlikely.
 I could not find any. So I started it here.
